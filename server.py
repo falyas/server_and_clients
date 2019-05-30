@@ -1,6 +1,6 @@
 """Author: Farah Alyasari, 2019 All Rights Reserved.
 
-This server forwards UDP packets """
+This server forwards TCP packets """
 
 import socket
 import string
